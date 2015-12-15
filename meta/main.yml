@@ -1,0 +1,15 @@
+---
+galaxy_info:
+  author: "Steven Harradine"
+  categories:
+    - system
+  description: "Enables forge like functionality on no aws infrastructure"
+  license: ISC License
+  min_ansible_version: 1.8
+  platforms:
+    - name: Ubuntu
+      versions:
+        - lucid
+        - precise
+        - trusty
+        - utopic
